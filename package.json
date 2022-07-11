@@ -19,6 +19,9 @@
   },
   "homepage": "https://github.com/zhzy-to/zhzy-to.github.io#readme",
   "devDependencies": {
-    "vuepress": "^2.0.0-beta.48"
+    "vuepress": "^1.9.7"
+  },
+  "dependencies": {
+    "vuepress-theme-reco": "^1.6.14"
   }
 }
