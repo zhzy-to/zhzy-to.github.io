@@ -3,7 +3,8 @@ module.exports = {
     lang: 'zh-CN',
     title: 'Zh\'s 小记',
     description: '',
-    dest: "public",
+    //base: '/',    // 部署的域名路径配置
+    //dest: "./dist", // 打包后的输出目录
     // head设置
     head: [
         [
