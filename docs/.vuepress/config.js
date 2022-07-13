@@ -36,16 +36,18 @@ module.exports = {
             //     "link": "/timeline/",
             //     "icon": "reco-date"
             // },
-            {
-                "text": "文档",
-                "icon": "reco-message",
-                "items": [
-                    {
-                        "text": "vuepress-reco",
-                        "link": "/docs/theme-reco/"
-                    }
-                ]
-            },
+
+            // {
+            //     "text": "文档",
+            //     "icon": "reco-message",
+            //     "items": [
+            //         {
+            //             "text": "vuepress-reco",
+            //             "link": "/docs/theme-reco/"
+            //         }
+            //     ]
+            // },
+
             {
                 "text": "联系",
                 "icon": "reco-message",
@@ -96,12 +98,13 @@ module.exports = {
     },
     // 插件
     plugins: [
-        [
-            '@vuepress-reco/vuepress-plugin-kan-ban-niang',
-            {
-                theme: ['blackCat', 'whiteCat', 'haru1', 'haru2', 'haruto', 'koharu', 'izumi', 'shizuku', 'wanko', 'miku', 'z16']
-            }
-        ],
+        // 看板娘
+        // [
+        //     '@vuepress-reco/vuepress-plugin-kan-ban-niang',
+        //     {
+        //         theme: ['blackCat', 'whiteCat', 'haru1', 'haru2', 'haruto', 'koharu', 'izumi', 'shizuku', 'wanko', 'miku', 'z16']
+        //     }
+        // ],
         ['cursor-effects', {
             size: 2, // size of the particle, default: 2
             shape: 'star', // ['star' | 'circle'], // shape of the particle, default: 'star'
@@ -156,6 +159,7 @@ module.exports = {
                 // 悬浮窗样式
                 floatStyle:{ bottom: '10px', 'z-index': '999999' }
             }
-        ]
+        ],
+
     ],
 }
