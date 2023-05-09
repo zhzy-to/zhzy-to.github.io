@@ -127,24 +127,24 @@ module.exports = {
                         url:'/bgm/Nutag.m4a',
                         cover:'/bgm/Nutag.jpg',
                     },
-                    {
-                        name: 'Fly',
-                        artist: 'ANU',
-                        url:'/bgm/Fly.m4a',
-                        cover:'/bgm/Fly.jpg',
-                    },
+                    // {
+                    //     name: 'Fly',
+                    //     artist: 'ANU',
+                    //     url:'/bgm/Fly.m4a',
+                    //     cover:'/bgm/Fly.jpg',
+                    // },
                     {
                         name: 'Hello World',
                         artist: 'Alan Walker / Torine',
                         url:'/bgm/Hello World.m4a',
                         cover:'/bgm/Hello World.jpg',
                     },
-                    {
-                        name: '锡尼河畔',
-                        artist: '阿斯罕 / 吴兰塔娜',
-                        url:'/bgm/xinihepan.m4a',
-                        cover:'/bgm/xinihepan.jpg',
-                    },
+                    // {
+                    //     name: '锡尼河畔',
+                    //     artist: '阿斯罕 / 吴兰塔娜',
+                    //     url:'/bgm/xinihepan.m4a',
+                    //     cover:'/bgm/xinihepan.jpg',
+                    // },
                     {
                         name: 'Here And Now',
                         artist: 'Paxel',
