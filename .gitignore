@@ -1,6 +1,7 @@
 .idea/*
 .idea
-
+.obsidian
 node_modules
 .temp
 .cache
+./docs/.obsidian
