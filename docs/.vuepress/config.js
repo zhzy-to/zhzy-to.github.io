@@ -112,9 +112,9 @@ module.exports = {
         }],
         ['dynamic-title', {
             showIcon: 'https://www.typescriptlang.org/favicon-32x32.png?v=8944a05a8b601855de116c8a56d3b3ae',
-            showText: '欢迎回来~',
+            showText: '欢迎回来',
             hideIcon: 'https://www.typescriptlang.org/favicon-32x32.png?v=8944a05a8b601855de116c8a56d3b3ae',
-            hideText: '客官不要走嘛~',
+            hideText: '欢迎再来',
             recoverTime: 2000,
         }],
         [
